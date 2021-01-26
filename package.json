@@ -4,7 +4,7 @@
   "description": "Open-source fast and effective implementation of BN256 operations written in Solidity",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/witnet/bls-solidity.git"
+    "url": "git+https://github.com/Secured-Finance/bls-solidity.git"
   },
   "keywords": [
     "cryptography",
@@ -23,12 +23,12 @@
   "author": "Witnet Foundation <info@witnet.foundation>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/witnet/bls-solidity/issues"
+    "url": "https://github.com/Secured-Finance/bls-solidity/issues"
   },
   "dependencies": {
     "elliptic-curve-solidity": "0.2.2"
   },
-  "homepage": "https://github.com/witnet/bls-solidityy#readme",
+  "homepage": "https://github.com/Secured-Finance/bls-solidityy#readme",
   "scripts": {
     "test": "truffle test",
     "test:local": "truffle test --network local",
